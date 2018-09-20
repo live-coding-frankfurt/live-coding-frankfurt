@@ -23,6 +23,9 @@ But pictures are better than words, so here are a few examples of what can be co
 exhaustive list of languages, libraries, tools which can be used to live code audio or visual performances. Plus it
 lists quite a few videos and articles
 
+There's also the very extensive [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) list,
+which goes beyond live coding but has lots more resources on how to get creative with code.
+
 ## Systems/Languages for Live Coding
 
 The following is only very small excerpt of all the existing systems, and we don't aim to replicate the already very
