@@ -33,34 +33,45 @@ expansive list of [awesome-livecoding](https://github.com/toplap/awesome-livecod
 want an extensive overview, or if you're looking for some kind of special tool/system/language.
 
 
-### [SuperCollider](https://supercollider.github.io/)
+### [SuperCollider](https://supercollider.github.io/) (C/Smalltalk)
 
 - Platform for audio synthesis and algorithmic composition.
 - Features `sclang`, an interpreted programming language for creating sound & music.
 
-### [Sonic Pi](http://sonic-pi.net/)
+### [Sonic Pi](http://sonic-pi.net/) (Ruby)
 
 - The Live Coding Music Synth for Everyone.
 - Needs installing
 - Control synths, samples and FXs with Ruby
 
-### [FoxDot](http://foxdot.org/)
+### [TidalCycles](https://tidalcycles.org/) (Haskell)
+
+- Domain specific pattern language in Haskell.
+- Compact syntax with big musical impact.
+- Specially good for rhythmic patterns and getting people to dance.
+- Uses SuperColliders as audio backend.
+
+### [FoxDot](http://foxdot.org/) (Python)
 
 - Control SuperCollider by programming Python.
 
-### [Gibber](https://gibber.cc/)
+### [Gibber](https://gibber.cc/) (JS)
 
 - "Gibber is a creative coding environment for audiovisual performance and composition. It contains features for audio
   synthesis and musical sequencing, 2d drawing, 3d scene construction and manipulation, and live-coding shaders."
 - Runs completely in browser
 - Does Audio and Visual
 
-### [LiveCodeLab](http://livecodelab.net/)
+### [LiveCodeLab](http://livecodelab.net/) 
 
 - "you can make fancy "on-the-fly" 3d visuals and play awesomely offbeat (literally) sounds"
 - Runs completely in browser
 - More focused on visuals than music
 
+### [Fluxus](http://www.pawfal.org/fluxus/) (LISP family)
+
+- Actually a game engine that can produce audio and 3D Visuals in real time.
+- The code is always embedded on top of the performance with dynamic font ("Show us your screens!")
 
 ### Notable Mentions
 
