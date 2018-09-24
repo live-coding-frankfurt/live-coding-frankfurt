@@ -43,6 +43,7 @@ want an extensive overview, or if you're looking for some kind of special tool/s
 - The Live Coding Music Synth for Everyone.
 - Needs installing
 - Control synths, samples and FXs with Ruby
+- [mehackit has a very comprehensive and easy to follow tutorial](http://sonic-pi.mehackit.org/)
 
 ### [TidalCycles](https://tidalcycles.org/) (Haskell)
 
