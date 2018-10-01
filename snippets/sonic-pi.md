@@ -1,3 +1,11 @@
+# Make Sonic-Pi your own
+
+You can add a file named `init.rb` to your home directory under the folder `.sonicpi`. This file is loaded at program start. Here you can place your own helper methods, which are then available to use globally within Sonic-Pi.
+
+If you use the portable version under Windows, the folder will be in the subfolder `Data\-.sonic-pi` of the portable distribution.
+
+In the same folder is also a file called `theme.properties`. Here you can tweak the colors of the Sonic-Pi UI.
+
 # Useful helper methods
 
 ```ruby
