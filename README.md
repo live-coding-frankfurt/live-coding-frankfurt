@@ -1,6 +1,6 @@
 # live-coding-frankfurt
 
-This repo is meant to serve as an accompany to the [Live Coding Frankfurt meetup group]().
+This repo is meant to serve as an accompany to the [Live Coding Frankfurt meetup group](https://www.meetup.com/Live-Coding-Frankfurt).
 
 Here we gather links to resources and eventually results of our sessions and workshops.
 
