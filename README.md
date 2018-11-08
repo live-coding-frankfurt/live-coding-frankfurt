@@ -74,6 +74,12 @@ want an extensive overview, or if you're looking for some kind of special tool/s
 - Actually a game engine that can produce audio and 3D Visuals in real time.
 - The code is always embedded on top of the performance with dynamic font ("Show us your screens!")
 
+### [Hydra](https://hydra-editor-v1.glitch.me/?)
+
+- "Hydra is a platform for live coding visuals, in which each connected browser window can be used as a node of a
+  modular and distributed video synthesizer."
+
+
 ### Notable Mentions
 
 #### [Loop Drop](http://loopjs.com/)
