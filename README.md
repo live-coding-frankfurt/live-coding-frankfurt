@@ -37,6 +37,7 @@ want an extensive overview, or if you're looking for some kind of special tool/s
 
 - Platform for audio synthesis and algorithmic composition.
 - Features `sclang`, an interpreted programming language for creating sound & music.
+- [A list of learning resources for SuperCollider](https://github.com/madskjeldgaard/talks-tutorials-workshops/blob/074f46669a28e619653e5639b9e6fb2755aeb271/sc-learning-resources.md)
 
 ### [Sonic Pi](http://sonic-pi.net/) (Ruby)
 
